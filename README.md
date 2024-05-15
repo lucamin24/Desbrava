@@ -27,7 +27,7 @@ Para acessar o aplicativo RotaCerta, clique no link abaixo:
 **Benefícios do DesbravAI:**
 
 
-* **Economia de Tempo:** O Rota Certa otimiza seu tempo de pesquisa e planejamento, permitindo que você aproveite ao máximo sua viagem.
+* **Economia de Tempo:** O DesbravAI otimiza seu tempo de pesquisa e planejamento, permitindo que você aproveite ao máximo sua viagem.
 
 
 * **Experiências Autênticas:** Descubra lugares e atividades fora do roteiro turístico tradicional, vivenciando a cultura local de forma autêntica.
